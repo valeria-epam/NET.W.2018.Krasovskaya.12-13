@@ -2,7 +2,7 @@
 сообщений различного уровня, предусмотрев возможность использования
 различных фреймворков для логирования.
 
-См. [задание дня 8](https://github.com/valeria-epam/NET.W.2018.Krasovskaya.08/blob/master/BookListStorage/Book.cs)
+См. [задание дня 8](https://github.com/valeria-epam/NET.W.2018.Krasovskaya.08/blob/master/BookListStorage/BookListService.cs)
 
 2. Разработать класс для имитации часов с обратным отсчетом, реализующий
 возможность по истечении назначенного времени (время ожидания
